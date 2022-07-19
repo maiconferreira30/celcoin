@@ -1,7 +1,7 @@
 {
     "name": "khelpdesk/celcoin",
     "description": "SDK PHP Celcoin , Pagamento de contas",
-    "keywords": ["celcoin", "recargas", "operadoras", "recarregar", "pre-pago", "celular"],
+    "keywords": ["celcoin", "pagamento de contas"],
     "type": "composer-plugin",
     "require": {
         "guzzlehttp/guzzle": "^7.4"
