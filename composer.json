@@ -1,0 +1,21 @@
+{
+    "name": "khelpdesk/celcoin",
+    "description": "SDK PHP Celcoin , Pagamento de contas",
+    "keywords": ["celcoin", "recargas", "operadoras", "recarregar", "pre-pago", "celular"],
+    "type": "composer-plugin",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Khelpdesk\\Celcoin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maicon Ferreira",
+            "email": "maiconferreira20@gmail.com"
+        }
+    ]
+}
